@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import pickle
 import pandas as pd
 import streamlit as st
@@ -51,3 +52,9 @@ if st.button('Recommend'):
     with col5:
         st.text(recommended_movie_names[4])
         st.image(recommended_movie_posters[4])
+=======
+import streamlit as st
+
+st.title('movie recommender system')
+
+>>>>>>> dc6f35a9e47ab47b247ce8426a626f96e347947a
