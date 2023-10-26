@@ -1,0 +1,6 @@
+venv
+.idea
+setup.sh
+movie_dict.pkl
+similarity.pkl
+movies.pkl
