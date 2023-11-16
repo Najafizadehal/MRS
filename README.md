@@ -13,11 +13,11 @@ Installation
 Clone the repository or download the source code.
 Install the required dependencies using pip:
 
-   pip install streamlit pandas requests
+       pip install streamlit pandas requests
 
-    Run the Streamlit app:
+Run the Streamlit app:
 
-   streamlit run app.py
+       streamlit run app.py
 
 Select a movie from the dropdown list.
 Click the "Recommend" button to get a list of recommended movies along with their posters.
