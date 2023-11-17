@@ -1,5 +1,4 @@
 # MRS
-Movie Recommender System
 This is a movie recommendation system built using Python, Streamlit, Pandas, and the TMDb (The Movie Database) API.
 Prerequisites
 
